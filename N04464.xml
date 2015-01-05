@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:005532_0000_101865BCB60AABC8"/>
-            <pb facs="tcp:005532_0001_101864C0E81C18D0"/>
+            <pb facs="unknown:005532_0000_101865BCB60AABC8"/>
+            <pb facs="unknown:005532_0001_101864C0E81C18D0"/>
             <p>THE ART OF PRESERVING <hi>HEALTH:</hi>
             </p>
             <p>A POEM.</p>
@@ -123,7 +123,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:005532_0002_101864CBD769ED50"/>
+            <pb n="3" facs="unknown:005532_0002_101864CBD769ED50"/>
             <head>THE ART OF PRESERVING HEALTH.</head>
             <div n="1" type="book">
                <head>BOOK I. AIR.</head>
@@ -139,7 +139,7 @@
                   <l>Diffuſeſt life and vigour thro' the tracts,</l>
                   <l n="10">Of air, thro' earth, and ocean's deep domain.</l>
                   <l>
-                     <pb n="4" facs="tcp:005532_0003_101864CD6688E9F8"/>
+                     <pb n="4" facs="unknown:005532_0003_101864CD6688E9F8"/>
 When thro' the blue ſerenity of heav'n</l>
                   <l>Thy power approaches, all the waſteful hoſt</l>
                   <l>Of pain and ſickneſs, ſqualid and deform'd,</l>
@@ -170,7 +170,7 @@ When thro' the blue ſerenity of heav'n</l>
                   <l>Nature would ſicken, nature ſoon would die.</l>
                </lg>
                <lg>
-                  <pb n="5" facs="tcp:005532_0004_101864CF4B59EA10"/>
+                  <pb n="5" facs="unknown:005532_0004_101864CF4B59EA10"/>
                   <l>WITHOUT thy chearful, active energy,</l>
                   <l>No rapture ſwells the breaſt, no poet ſings,</l>
                   <l>No more the maids of Helicon delight.</l>
@@ -204,7 +204,7 @@ When thro' the blue ſerenity of heav'n</l>
                   <l>And with new graces dignify the theme.</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:005532_0005_101864D3CFBECEB8"/>
+                  <pb n="6" facs="unknown:005532_0005_101864D3CFBECEB8"/>
                   <l>YE who amid this feveriſh world would wear</l>
                   <l n="65">A body free of pain, of cares a mind;</l>
                   <l>Fly the rank city, ſhun its turbid air;</l>
@@ -236,7 +236,7 @@ When thro' the blue ſerenity of heav'n</l>
                   <l n="90">This cauſtick venom would perhaps corrode</l>
                   <l>Thoſe tender cells that draw the vital air,</l>
                   <l>
-                     <pb n="7" facs="tcp:005532_0006_101864D6A4DD0EB8"/>
+                     <pb n="7" facs="unknown:005532_0006_101864D6A4DD0EB8"/>
 In vain with all their unctuous rills bedew'd;</l>
                   <l>Or by the drunken, venous tubes, that yawn</l>
                   <l>In countleſs pores o'er all the pervious ſkin,</l>
@@ -266,7 +266,7 @@ In vain with all their unctuous rills bedew'd;</l>
                   <l>Sweetly thou may'ſt thy vacant hours poſſeſs</l>
                   <l>In Hampſtead, courted by the weſtern wind;</l>
                   <l n="120">
-                     <pb n="8" facs="tcp:005532_0007_101864D87569F728"/>
+                     <pb n="8" facs="unknown:005532_0007_101864D87569F728"/>
  Or Greenwich, waving o'er the winding flood;</l>
                   <l>O<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -300,7 +300,7 @@ In vain with all their unctuous rills bedew'd;</l>
                   <l>Ting'd with her own accumulated gall.</l>
                </lg>
                <lg>
-                  <pb n="9" facs="tcp:005532_0008_101864DC767F6698"/>
+                  <pb n="9" facs="unknown:005532_0008_101864DC767F6698"/>
                   <l>IN queſt of ſites, avoid the mournful plain</l>
                   <l>Where oſiers thrive, and trees that love the lake<g ref="char:punc">▪</g>
                   </l>
@@ -333,7 +333,7 @@ In vain with all their unctuous rills bedew'd;</l>
                   <l>Spoil'd of its limpid vehicle, the blood</l>
                   <l>A maſs of lees remains, a droſſy tide</l>
                   <l n="175">
-                     <pb n="10" facs="tcp:005532_0009_101864DE51D41640"/>
+                     <pb n="10" facs="unknown:005532_0009_101864DE51D41640"/>
 That ſlow as Lethe wanders thro' the veins,</l>
                   <l>Unactive in the ſervices of life,</l>
                   <l>Unfit to lead its pitchy current thro'</l>
@@ -364,7 +364,7 @@ That ſlow as Lethe wanders thro' the veins,</l>
                   <l n="200">Conduct your Trenches thro' the ſpouting Bog;</l>
                   <l>Solicitous, with all your winding arts,</l>
                   <l>
-                     <pb n="11" facs="tcp:005532_0010_101864E5BADF6558"/>
+                     <pb n="11" facs="unknown:005532_0010_101864E5BADF6558"/>
 Betray th' unwilling lake into the ſtream;</l>
                   <l>And weed the foreſt, and invoke the winds</l>
                   <l>To break the toils where ſtrangled vapours lie;</l>
@@ -394,7 +394,7 @@ Betray th' unwilling lake into the ſtream;</l>
                   <l>Here ſpread your gardens wide; and let the cool,</l>
                   <l>The moiſt relaxing vegetable ſtore</l>
                   <l n="230">
-                     <pb n="12" facs="tcp:005532_0011_101864E7C6296868"/>
+                     <pb n="12" facs="unknown:005532_0011_101864E7C6296868"/>
  Prevail in each repaſt: your food ſupplied</l>
                   <l>By bleeding life, be gently waſted down,</l>
                   <l>By ſoft decoction, and a mellowing heat,</l>
@@ -424,7 +424,7 @@ Betray th' unwilling lake into the ſtream;</l>
                   <l>Till black with thunder all the ſouth deſcends.</l>
                   <l>Scarce in a ſhowerleſs day the heavens indulge</l>
                   <l>
-                     <pb n="13" facs="tcp:005532_0012_101864E94CEAFDD8"/>
+                     <pb n="13" facs="unknown:005532_0012_101864E94CEAFDD8"/>
 Our melting clime, except the baleful eaſt</l>
                   <l>Withers the tender ſpring, and ſourly checks</l>
                   <l n="260">The fancy of the year. Our fathers talk</l>
@@ -454,7 +454,7 @@ Our melting clime, except the baleful eaſt</l>
                   <l>Aſcend, there light thy hoſpitable fires.</l>
                   <l>And let them ſee the winter morn ariſe,</l>
                   <l>
-                     <pb n="14" facs="tcp:005532_0013_101864EC90FBAFD0"/>
+                     <pb n="14" facs="unknown:005532_0013_101864EC90FBAFD0"/>
 The ſummer evening bluſhing in the weſt,</l>
                   <l n="285">While with umbrageous oaks the ridge behind</l>
                   <l>O'erhung, defends you from the bluſt'ring north,</l>
@@ -485,7 +485,7 @@ The ſummer evening bluſhing in the weſt,</l>
                   <l>Shall reach, nor deadly putrid airs annoy.</l>
                </lg>
                <lg>
-                  <pb n="15" facs="tcp:005532_0014_101864EFC56103A0"/>
+                  <pb n="15" facs="unknown:005532_0014_101864EFC56103A0"/>
                   <l n="310">BUT may no fogs, from lake, or fenny plain,</l>
                   <l>Involve my hill. And whereſoe'er you build,</l>
                   <l>Whether on ſun-burnt Epſom, or the plains</l>
@@ -515,7 +515,7 @@ The ſummer evening bluſhing in the weſt,</l>
                   <l>The verdant ſpring; in virgin beauty blows</l>
                   <l n="335">The tender lily, languiſhingly ſweet;</l>
                   <l>
-                     <pb n="16" facs="tcp:005532_0015_101864F413A90908"/>
+                     <pb n="16" facs="unknown:005532_0015_101864F413A90908"/>
 O'er every hedge the wanton woodbine roves,</l>
                   <l>And autumn ripens in the ſummer's ray.</l>
                   <l>Nor leſs the warmer living tribes demand</l>
@@ -530,10 +530,10 @@ O'er every hedge the wanton woodbine roves,</l>
                </lg>
             </div>
             <div n="2" type="book">
-               <pb facs="tcp:005532_0016_101864F795D1B950"/>
+               <pb facs="unknown:005532_0016_101864F795D1B950"/>
                <head>THE ART OF PRESERVING <hi>HEALTH.</hi> BOOK II. DIET.</head>
                <head type="sub">
-                  <pb n="19" facs="tcp:005532_0017_101864F91A6B07F0"/>
+                  <pb n="19" facs="unknown:005532_0017_101864F91A6B07F0"/>
 THE ART OF PRESERVING HEALTH. BOOK II. DIET.</head>
                <lg>
                   <l>ENOUGH of air. A deſart ſubject now,</l>
@@ -549,7 +549,7 @@ THE ART OF PRESERVING HEALTH. BOOK II. DIET.</head>
                   <l>Demand my ſong. Elyſian gales adieu!</l>
                </lg>
                <lg>
-                  <pb n="20" facs="tcp:005532_0018_101864FBD89040F8"/>
+                  <pb n="20" facs="unknown:005532_0018_101864FBD89040F8"/>
                   <l>THE blood, the fountain whence the ſpirits flow,</l>
                   <l>The generous ſtream that waters every part,</l>
                   <l>And motion, vigour, and warm life conveys</l>
@@ -579,7 +579,7 @@ THE ART OF PRESERVING HEALTH. BOOK II. DIET.</head>
                   <l>To liquors, which thro' finer arteries</l>
                   <l>To different parts their winding courſe purſue;</l>
                   <l n="40">
-                     <pb n="21" facs="tcp:005532_0019_10186500A7E0ADE0"/>
+                     <pb n="21" facs="unknown:005532_0019_10186500A7E0ADE0"/>
  To try new Changes, and new forms put on,</l>
                   <l>Or for the public, or ſome private uſe.</l>
                </lg>
@@ -614,7 +614,7 @@ THE ART OF PRESERVING HEALTH. BOOK II. DIET.</head>
                   <l>Nor ſtay till rigid age, or heavy ails,</l>
                   <l n="65">Abſolve him ill-requited from the yoke.</l>
                   <l>
-                     <pb n="22" facs="tcp:005532_0020_10186502A24D47D0"/>
+                     <pb n="22" facs="unknown:005532_0020_10186502A24D47D0"/>
 Some with high forage, and luxuriant eaſe,</l>
                   <l>Indulge the veteran Ox; but wiſer thou,</l>
                   <l>From the bleak mountain or the barren downs,</l>
@@ -643,7 +643,7 @@ Some with high forage, and luxuriant eaſe,</l>
                   <l>But let the man, whoſe bones are thinly clad,</l>
                   <l>With chearful eaſe, and ſucculent repaſt,</l>
                   <l>
-                     <pb n="23" facs="tcp:005532_0021_101865074BA17678"/>
+                     <pb n="23" facs="unknown:005532_0021_101865074BA17678"/>
 Improve his ſlender habit. Each extreme</l>
                   <l>From the bleſt mean of ſanity departs.</l>
                </lg>
@@ -677,7 +677,7 @@ Improve his ſlender habit. Each extreme</l>
                   <l>The kind reſtorative of thoſe who lie</l>
                   <l>Half-dead and panting, from the doubtful ſtrife</l>
                   <l n="120">
-                     <pb n="24" facs="tcp:005532_0022_1018650A61E29B38"/>
+                     <pb n="24" facs="unknown:005532_0022_1018650A61E29B38"/>
  Of nature ſtruggling in the graſp of death.</l>
                   <l>Try all the bounties of this fertile globe,</l>
                   <l>There is not ſuch a ſalutary food,</l>
@@ -713,7 +713,7 @@ Improve his ſlender habit. Each extreme</l>
                   <l n="145">The Thracian ſteeds with human carnage wild.</l>
                   <l>Prompted by inſtinct's never-erring power,</l>
                   <l>
-                     <pb n="25" facs="tcp:005532_0023_1018650BE7F6E178"/>
+                     <pb n="25" facs="unknown:005532_0023_1018650BE7F6E178"/>
 Each creature known its proper aliment;</l>
                   <l>But man, th' inhabitant of every clime,</l>
                   <l>With all the commoners of nature feeds.</l>
@@ -744,7 +744,7 @@ Each creature known its proper aliment;</l>
                   <l>Conſtrain'd to leave his happy natal ſeat,</l>
                   <l>And ſigh for wants more bitter than his own?</l>
                   <l n="175">
-                     <pb n="26" facs="tcp:005532_0024_1018650F94285AC8"/>
+                     <pb n="26" facs="unknown:005532_0024_1018650F94285AC8"/>
  There are, while human miſeries abound,</l>
                   <l>A thouſand ways to waſte ſuperfluous wealth,</l>
                   <l>Without one fool or flatterer at your board,</l>
@@ -776,7 +776,7 @@ Each creature known its proper aliment;</l>
                   <l>So heav'n has form'd us to the general taſte</l>
                   <l n="200">Of all its gifts; ſo cuſtom has improv'd</l>
                   <l>
-                     <pb n="27" facs="tcp:005532_0025_101865153B748908"/>
+                     <pb n="27" facs="unknown:005532_0025_101865153B748908"/>
 This bent of nature; that few ſimple foods,</l>
                   <l>Of all that earth, or air, or ocean yield,</l>
                   <l>But by exceſs offend. Beyond the ſenſe</l>
@@ -807,7 +807,7 @@ This bent of nature; that few ſimple foods,</l>
                   <l>Old age grow green, and wear a ſecond ſpring;</l>
                   <l>Or the tall aſh, long raviſh'd from the ſoil,</l>
                   <l>
-                     <pb n="28" facs="tcp:005532_0026_10185CCF330B1F98"/>
+                     <pb n="28" facs="unknown:005532_0026_10185CCF330B1F98"/>
 Thro' wither'd veins imbibe the vernal dew.</l>
                   <l n="230">When hunger calls, obey; nor often wait</l>
                   <l>Till hunger ſharpen to corroſive pain:</l>
@@ -838,7 +838,7 @@ Thro' wither'd veins imbibe the vernal dew.</l>
                   <l>BUT tho' the two (the full and the jejune)</l>
                   <l n="255">Extremes have each their vice; it much avails</l>
                   <l>
-                     <pb n="29" facs="tcp:005532_0027_1018651880F77F60"/>
+                     <pb n="29" facs="unknown:005532_0027_1018651880F77F60"/>
 Ever with gentle tide to ebb and flow</l>
                   <l>From this to that: ſo nature learns to bear</l>
                   <l>Whatever chance or headlong appetite</l>
@@ -867,7 +867,7 @@ Ever with gentle tide to ebb and flow</l>
                   <l>His quaking heart. The ſeaſons which divide</l>
                   <l>Th' empires of heat and cold; by neither claim'd,</l>
                   <l>
-                     <pb n="30" facs="tcp:005532_0028_1018651A11C9D540"/>
+                     <pb n="30" facs="unknown:005532_0028_1018651A11C9D540"/>
 Influenc'd by both; a middle regimen</l>
                   <l>Impoſe. Thro' autumn's languiſhing domain</l>
                   <l n="285">Deſcending, nature by degrees invites</l>
@@ -898,7 +898,7 @@ Influenc'd by both; a middle regimen</l>
                   <l>Pomona hates them, and the clowniſh God</l>
                   <l>Who tends the garden. In this frozen world</l>
                   <l n="310">
-                     <pb n="31" facs="tcp:005532_0029_1018651D2519CD80"/>
+                     <pb n="31" facs="unknown:005532_0029_1018651D2519CD80"/>
  Such cooling gifts were vain: a fitter meal</l>
                   <l>Is earn'd with eaſe; for here the fruitful ſpawn</l>
                   <l>Of Ocean ſwarms, and heaps their genial board</l>
@@ -930,7 +930,7 @@ Influenc'd by both; a middle regimen</l>
                   <l>Earth's vaunted progeny: in ruder air</l>
                   <l>Too coy to flouriſh, even too proud to live;</l>
                   <l>
-                     <pb n="32" facs="tcp:005532_0030_1018651EE45B6F20"/>
+                     <pb n="32" facs="unknown:005532_0030_1018651EE45B6F20"/>
 Or hardly rais'd by artificial fire</l>
                   <l>To vapid life. Here with a mother's ſmile</l>
                   <l n="340">Glad Amalthea pours her copious horn.</l>
@@ -961,7 +961,7 @@ Or hardly rais'd by artificial fire</l>
                   <l>And there, in Gothic ſolitude reclin'd,</l>
                   <l>The chearleſs Tanais pours his hoary urn.</l>
                   <l n="365">
-                     <pb n="33" facs="tcp:005532_0031_1018652396549938"/>
+                     <pb n="33" facs="unknown:005532_0031_1018652396549938"/>
  What ſolemn twilight! What ſtupendous ſhades!</l>
                   <l>Enwarp theſe infant floods! Thro' every nerve</l>
                   <l>A ſacred horror thrills, a pleaſing fear</l>
@@ -992,7 +992,7 @@ Or hardly rais'd by artificial fire</l>
                   <l n="390">None warmer ſought the fires of human-kind.</l>
                   <l>Happy in temperate peace! Their equal days</l>
                   <l>
-                     <pb n="34" facs="tcp:005532_0032_1018652824B7FA88"/>
+                     <pb n="34" facs="unknown:005532_0032_1018652824B7FA88"/>
 Felt not th' alternate fits of feveriſh mirth,</l>
                   <l>And ſick dejection. Still ſerene and pleas'd,</l>
                   <l>They knew no pains but what the tender ſoul</l>
@@ -1021,7 +1021,7 @@ Felt not th' alternate fits of feveriſh mirth,</l>
                   <l n="415">And ſummer's heat ſecure. The lucid ſtream,</l>
                   <l>O'er rocks reſounding, or for many a mile</l>
                   <l>
-                     <pb n="35" facs="tcp:005532_0033_1018652AEF0162E0"/>
+                     <pb n="35" facs="unknown:005532_0033_1018652AEF0162E0"/>
 Hurl'd down the pebbly channel, wholſome yields</l>
                   <l>And mellow draughts; except when winter thaws,</l>
                   <l>And half the mountains melt into the tide.</l>
@@ -1053,7 +1053,7 @@ Hurl'd down the pebbly channel, wholſome yields</l>
                   <l>The puny wonders of the reptile world,</l>
                   <l>The tender rudiments of life, the ſlim</l>
                   <l>
-                     <pb n="36" facs="tcp:005532_0034_1018652DCEF17080"/>
+                     <pb n="36" facs="unknown:005532_0034_1018652DCEF17080"/>
 Unrav'lings of minute anatomy,</l>
                   <l n="445">Maintain their texture, and unchang'd remain!</l>
                </lg>
@@ -1085,7 +1085,7 @@ Unrav'lings of minute anatomy,</l>
                   <l>Or ſacred country calls, with mellowing wine</l>
                   <l>To moiſten well the thirſty ſuffrages;</l>
                   <l n="470">
-                     <pb n="37" facs="tcp:005532_0035_1018652F54536650"/>
+                     <pb n="37" facs="unknown:005532_0035_1018652F54536650"/>
  Say how, unſeaſon'd to the midnight frays</l>
                   <l>Of comus and his rout, wilt thou contend</l>
                   <l>With Centaurs long to hardy deeds inur'd?</l>
@@ -1120,7 +1120,7 @@ Unrav'lings of minute anatomy,</l>
                   <l>No morning admonitions ſhock the head.</l>
                   <l n="495">But ah! what woes remain! Life rolls apace,</l>
                   <l>
-                     <pb n="40" facs="tcp:005532_0036_10186531A78EC138"/>
+                     <pb n="40" facs="unknown:005532_0036_10186531A78EC138"/>
 And tottering empires ruſh by their own weight.</l>
                   <l>This huge rotundity we tread grows old;</l>
                   <l n="545">And all thoſe worlds that roll around the ſun,</l>
@@ -1139,10 +1139,10 @@ And tottering empires ruſh by their own weight.</l>
                </lg>
             </div>
             <div n="3" type="book">
-               <pb facs="tcp:005532_0037_101865366F499358"/>
+               <pb facs="unknown:005532_0037_101865366F499358"/>
                <head>THE ART OF PRESERVING <hi>HEALTH.</hi> BOOK III. EXERCISE.</head>
                <head type="sub">
-                  <pb n="43" facs="tcp:005532_0038_1018653CAEFCE288"/>
+                  <pb n="43" facs="unknown:005532_0038_1018653CAEFCE288"/>
 THE ART OF PRESERVING HEALTH. BOOK III. EXERCISE.</head>
                <lg>
                   <l>THRO' various toils th' advent'rous muſe has paſt;</l>
@@ -1161,7 +1161,7 @@ THE ART OF PRESERVING HEALTH. BOOK III. EXERCISE.</head>
                         <desc>〈◊〉</desc>
                      </gap> with timorous rules</l>
                   <l>
-                     <pb n="44" facs="tcp:005532_0039_1018653E34F0C3D0"/>
+                     <pb n="44" facs="unknown:005532_0039_1018653E34F0C3D0"/>
 A hardy frame; nor needleſly to brave</l>
                   <l>Unglorious dangers, proud of mortal ſtrength;</l>
                   <l>Is all the leſſon that in wholſome years</l>
@@ -1192,7 +1192,7 @@ A hardy frame; nor needleſly to brave</l>
                   <l n="35">Indeed, and temperance pain. By arts like theſe</l>
                   <l>Laconia nurs'd of old her hardy ſons;</l>
                   <l>
-                     <pb n="45" facs="tcp:005532_0040_1018654032AA65E0"/>
+                     <pb n="45" facs="unknown:005532_0040_1018654032AA65E0"/>
 And Rome's unconquer'd legions urg'd their way,</l>
                   <l>Unhurt, thro' every toil in every clime.</l>
                </lg>
@@ -1223,7 +1223,7 @@ And Rome's unconquer'd legions urg'd their way,</l>
                   <l>Intent, with emulous impatience try</l>
                   <l>Each doubtful tract. Or, if a nobler prey</l>
                   <l>
-                     <pb n="46" facs="tcp:005532_0041_10186543D6A9F0E0"/>
+                     <pb n="46" facs="unknown:005532_0041_10186543D6A9F0E0"/>
 Delight you more, go chaſe the deſperate deer;</l>
                   <l n="65">And thro' its deepeſt ſolitudes awake</l>
                   <l>The vocal foreſt with the jovial horn.</l>
@@ -1257,7 +1257,7 @@ Delight you more, go chaſe the deſperate deer;</l>
                   <l>In thy tranſparent eddies have I lav'd:</l>
                   <l n="90">Oft trac'd with patient ſteps thy fairy banks,</l>
                   <l>
-                     <pb n="47" facs="tcp:005532_0042_10186547689C58D8"/>
+                     <pb n="47" facs="unknown:005532_0042_10186547689C58D8"/>
 With the well-imitated fly to hook</l>
                   <l>The eager trout, and with the ſlender line</l>
                   <l>And yielding rod ſollicite to the ſhore</l>
@@ -1288,7 +1288,7 @@ With the well-imitated fly to hook</l>
                   <l>Attain'd, and equal to his moderate mind;</l>
                   <l>His life approv'd by all the wiſe and good,</l>
                   <l>
-                     <pb n="48" facs="tcp:005532_0043_1018654AEB372410"/>
+                     <pb n="48" facs="unknown:005532_0043_1018654AEB372410"/>
 Even envy'd by the vain) the peaceful groves</l>
                   <l>Of Epicurus, from this ſtormy world</l>
                   <l n="120">Receive to reſt; of all ungrateful cares</l>
@@ -1320,7 +1320,7 @@ Even envy'd by the vain) the peaceful groves</l>
                         <desc>•</desc>
                      </gap>able, they the ſtealing hour</l>
                   <l>
-                     <pb n="49" facs="tcp:005532_0044_1018654F97BFD968"/>
+                     <pb n="49" facs="unknown:005532_0044_1018654F97BFD968"/>
 Of timely reſt forget. Sometimes, at eve,</l>
                   <l>His neighbours lift the latch, and bleſs unbid</l>
                   <l>His feſtal roof; while, o'er the light repaſt</l>
@@ -1349,7 +1349,7 @@ Of timely reſt forget. Sometimes, at eve,</l>
                   <l>His vacant fancy moſt: the toil you hate</l>
                   <l>Fatigues you ſoon, and ſcarce improves your limbs.</l>
                   <l n="170">
-                     <pb n="50" facs="tcp:005532_0045_1018655153242580"/>
+                     <pb n="50" facs="unknown:005532_0045_1018655153242580"/>
  As beauty ſtill has blemiſh; and the mind</l>
                   <l>The moſt accompliſh'd its imperfect ſide;</l>
                   <l>Few bodies are there of that happy mould</l>
@@ -1380,7 +1380,7 @@ Of timely reſt forget. Sometimes, at eve,</l>
                   <l n="195">Compreſs'd, can pour the lubricating balm.</l>
                   <l>Beſides, collected in the paſſive veins,</l>
                   <l>
-                     <pb n="51" facs="tcp:005532_0046_10186552EA12ACF8"/>
+                     <pb n="51" facs="unknown:005532_0046_10186552EA12ACF8"/>
 The purple maſs a ſudden torrent rolls,</l>
                   <l>O'erpowers the heart, and deluges the lungs</l>
                   <l>With dangerous inundation: oft the ſource</l>
@@ -1412,7 +1412,7 @@ The purple maſs a ſudden torrent rolls,</l>
                   <l>Nor taſte the ſpring. O! by the ſacred tears</l>
                   <l>Of widows, orphans, mothers, ſiſters, ſires,</l>
                   <l>
-                     <pb n="52" facs="tcp:005532_0047_1018655819F96618"/>
+                     <pb n="52" facs="unknown:005532_0047_1018655819F96618"/>
 Forbear! No other peſtilence has driven</l>
                   <l>Such myriads o'er th' irremeable deep.</l>
                   <l n="225">Why this ſo fatal, the ſagacious muſe</l>
@@ -1445,7 +1445,7 @@ Forbear! No other peſtilence has driven</l>
                   <l>The cheriſh'd nerves. Our leſs voluptuous clime</l>
                   <l>Not much invites us to ſuch arts as theſe.</l>
                   <l n="250">
-                     <pb n="53" facs="tcp:005532_0048_1018655E0A1B3820"/>
+                     <pb n="53" facs="unknown:005532_0048_1018655E0A1B3820"/>
 'Tis not for thoſe, whom gelid ſkies embrace,</l>
                   <l>And chilling fogs; whoſe perſpiration feels</l>
                   <l>Such frequent bars from Eurus and the North;</l>
@@ -1475,7 +1475,7 @@ Forbear! No other peſtilence has driven</l>
                   <l>Leaſt fickle riſe the recremental ſteams,</l>
                   <l>And leaſt obnoxious to the ſtyptic air,</l>
                   <l>
-                     <pb n="54" facs="tcp:005532_0049_1018655FE64D4858"/>
+                     <pb n="54" facs="unknown:005532_0049_1018655FE64D4858"/>
 Which breathe thro' ſtraiter and more callous pores.</l>
                   <l>The temper'd Scythian hence, half naked treads</l>
                   <l n="280">His boundleſs ſnows, nor rues th' inclement heaven;</l>
@@ -1508,7 +1508,7 @@ Which breathe thro' ſtraiter and more callous pores.</l>
                   <l>He not the ſafe viciſſitudes of life</l>
                   <l>Without ſome ſhock endures; ill-fitted he</l>
                   <l n="305">
-                     <pb n="55" facs="tcp:005532_0050_10186564B92F0DA8"/>
+                     <pb n="55" facs="unknown:005532_0050_10186564B92F0DA8"/>
  To want the known, or bear unuſual things:</l>
                   <l>Beſides, the powerful remedies of pain</l>
                   <l>(Since pain in ſpite of all our care will come)</l>
@@ -1539,7 +1539,7 @@ Which breathe thro' ſtraiter and more callous pores.</l>
                   <l n="330">A decent grace; without it, youth and charms</l>
                   <l>Are loathſome. This the ſkilful virgin knows:</l>
                   <l>
-                     <pb n="56" facs="tcp:005532_0051_10186566436AF448"/>
+                     <pb n="56" facs="unknown:005532_0051_10186566436AF448"/>
 So doubtleſs do your wives. For married ſires,</l>
                   <l>As well as lovers, ſtill pretend to taſte;</l>
                   <l>Nor is it leſs (all prudent wives can tell)</l>
@@ -1570,7 +1570,7 @@ So doubtleſs do your wives. For married ſires,</l>
                   <l>The body overcharg'd with unctuous phlegm</l>
                   <l>Much toil demands: the lean elaſtic leſs.</l>
                   <l>
-                     <pb n="57" facs="tcp:005532_0052_10186569AF8AF988"/>
+                     <pb n="57" facs="unknown:005532_0052_10186569AF8AF988"/>
 While winter chills the blood, and binds the veins,</l>
                   <l n="360">No labours are too hard: by thoſe you 'ſcape</l>
                   <l>The ſlow diſeaſes of the torpid year;</l>
@@ -1602,7 +1602,7 @@ While winter chills the blood, and binds the veins,</l>
                   <l n="385">Thro' all her works. Now happy he whoſe toil</l>
                   <l>Has o'er his languid powerleſs limbs diffus'd</l>
                   <l>
-                     <pb n="58" facs="tcp:005532_0053_1018656CE2958FB8"/>
+                     <pb n="58" facs="unknown:005532_0053_1018656CE2958FB8"/>
 A pleaſing laſſitude: he not in vain</l>
                   <l>Invokes the gentle deity of dreams.</l>
                   <l>His powers the moſt voluptuouſly diſſolve</l>
@@ -1633,7 +1633,7 @@ A pleaſing laſſitude: he not in vain</l>
                   <l>What dreams preſage, what dangers theſe or thoſe</l>
                   <l n="415">Portend to ſanity, tho' prudent ſeers</l>
                   <l>
-                     <pb n="59" facs="tcp:005532_0054_1018656E96367660"/>
+                     <pb n="59" facs="unknown:005532_0054_1018656E96367660"/>
 Reveal'd of old, and men of deathleſs fame;</l>
                   <l>We would not to the ſuperſtitious mind</l>
                   <l>Suggeſt new throbs, new vanities of fear.</l>
@@ -1664,7 +1664,7 @@ Reveal'd of old, and men of deathleſs fame;</l>
                   <l>To cruel heav'ns. But why, already prone</l>
                   <l>To fade, ſhould beauty cheriſh its own bane?</l>
                   <l>
-                     <pb n="60" facs="tcp:005532_0055_101865735EC25FD8"/>
+                     <pb n="60" facs="unknown:005532_0055_101865735EC25FD8"/>
 O ſhame! O pity! nipt with pale Quadrille,</l>
                   <l>And midnight cares, the bloom of Albion dies!</l>
                </lg>
@@ -1697,7 +1697,7 @@ O ſhame! O pity! nipt with pale Quadrille,</l>
                   <l>From habits urge you by long time confirm'd,</l>
                   <l>Slow may the change arrive, and ſtage by ſtage;</l>
                   <l n="470">
-                     <pb n="61" facs="tcp:005532_0056_1018657854FCE8D8"/>
+                     <pb n="61" facs="unknown:005532_0056_1018657854FCE8D8"/>
  Slow as the ſhadow o'er the dial moves,</l>
                   <l>Slow as the ſtealing progreſs of the year.</l>
                </lg>
@@ -1736,7 +1736,7 @@ O ſhame! O pity! nipt with pale Quadrille,</l>
                         <desc>•</desc>
                      </gap>aſt.</l>
                   <l>
-                     <pb n="62" facs="tcp:005532_0057_1018657A0FD77738"/>
+                     <pb n="62" facs="unknown:005532_0057_1018657A0FD77738"/>
 But you perhaps refuſe the tedious ſong.</l>
                   <l>Beſides, whatever plagues in heat, or cold,</l>
                   <l>Or drought, or moiſture dwell, they hurt not you.</l>
@@ -1768,7 +1768,7 @@ But you perhaps refuſe the tedious ſong.</l>
                   <l>Be ſhut; tho' no convulſive agony</l>
                   <l>Shake, from the deep foundations of the world,</l>
                   <l n="525">
-                     <pb n="63" facs="tcp:005532_0058_1018657D4EF5D198"/>
+                     <pb n="63" facs="unknown:005532_0058_1018657D4EF5D198"/>
  Th' impriſoned plagues; a ſecret venom oft</l>
                   <l>Corrupts the air, the water, and the land.</l>
                   <l>What livid deaths has ſad Byzantium ſeen!</l>
@@ -1802,7 +1802,7 @@ But you perhaps refuſe the tedious ſong.</l>
                   <l n="550">And ſoon the ſurface caught the ſpreading fires.</l>
                   <l>Thro' all the yielding pores the melted blood</l>
                   <l>
-                     <pb n="64" facs="tcp:005532_0059_1018657ED7B221B0"/>
+                     <pb n="64" facs="unknown:005532_0059_1018657ED7B221B0"/>
 Guſh'd out in ſmoaky ſweats; but nought aſſuag'd</l>
                   <l>The torrid heat within, nor aught reliev'd</l>
                   <l>The ſtomach's anguiſh. With inceſſant toil,</l>
@@ -1835,7 +1835,7 @@ Guſh'd out in ſmoaky ſweats; but nought aſſuag'd</l>
                   <l>Were kind, that long they linger'd not in pain.</l>
                   <l n="580">For who ſurviv'd the ſun's diurnal race,</l>
                   <l>
-                     <pb n="65" facs="tcp:005532_0060_101865809A14A6A8"/>
+                     <pb n="65" facs="unknown:005532_0060_101865809A14A6A8"/>
 Roſe from the dreary gates of hell redeem'd:</l>
                   <l>Some the ſixth hour oppreſs'd, and ſome the third.</l>
                </lg>
@@ -1868,7 +1868,7 @@ Roſe from the dreary gates of hell redeem'd:</l>
                   <l>In fearful whiſpers hopeleſs omens gave.</l>
                   <l>To heaven with ſuppliant rites they ſent their pray'rs,</l>
                   <l>
-                     <pb n="66" facs="tcp:005532_0061_101865CCA2E0B9E8"/>
+                     <pb n="66" facs="unknown:005532_0061_101865CCA2E0B9E8"/>
 Heav'n heard them not. Of every hope depriv'd;</l>
                   <l>Fatigu'd with vain reſources; and ſubdu'd</l>
                   <l n="610">With woes reſiſtleſs and enfeebling fear;</l>
@@ -1902,10 +1902,10 @@ Heav'n heard them not. Of every hope depriv'd;</l>
                </lg>
             </div>
             <div n="4" type="book">
-               <pb facs="tcp:005532_0062_1018658675570398"/>
+               <pb facs="unknown:005532_0062_1018658675570398"/>
                <head>THE ART OF PRESERVING HEALTH. BOOK IV. The PASSIONS.</head>
                <head type="sub">
-                  <pb n="69" facs="tcp:005532_0063_1018658C38C2BF18"/>
+                  <pb n="69" facs="unknown:005532_0063_1018658C38C2BF18"/>
 THE ART OF PRESERVING HEALTH. BOOK IV. The PASSIONS.</head>
                <lg>
                   <l>THE choice of aliment, the choice of air,</l>
@@ -1923,7 +1923,7 @@ THE ART OF PRESERVING HEALTH. BOOK IV. The PASSIONS.</head>
                   <l>THERE is, they ſay (and I believe there is)</l>
                   <l>A ſpark within us of th' immortal fire,</l>
                   <l>
-                     <pb n="70" facs="tcp:005532_0064_1018658DC22E45F8"/>
+                     <pb n="70" facs="unknown:005532_0064_1018658DC22E45F8"/>
 That animates and moulds the groſſer frame;</l>
                   <l>And when the body ſinks, eſcapes to heaven,</l>
                   <l n="15">Its native ſeat; and mixes with the Gods.</l>
@@ -1955,7 +1955,7 @@ That animates and moulds the groſſer frame;</l>
                   <l>All day the vacant eye without fatigue</l>
                   <l>Strays o'er the heaven and earth; but long intent</l>
                   <l>
-                     <pb n="71" facs="tcp:005532_0065_101913A379DB66C0"/>
+                     <pb n="71" facs="unknown:005532_0065_101913A379DB66C0"/>
 On microſcopic arts its vigour fails.</l>
                   <l n="40">Juſt ſo the mind, with various thoughts amus'd,</l>
                   <l>Nor aches itſelf, nor gives the body pain.</l>
@@ -1986,7 +1986,7 @@ On microſcopic arts its vigour fails.</l>
                   <l>And gives to reliſh what their generous taſte</l>
                   <l n="65">Would elſe refuſe. But may nor thirſt of fame,</l>
                   <l>
-                     <pb n="72" facs="tcp:005532_0066_1019138A8FA71868"/>
+                     <pb n="72" facs="unknown:005532_0066_1019138A8FA71868"/>
 Nor love of knowledge urge you to fatigue</l>
                   <l>With conſtant drudgery the liberal ſoul.</l>
                   <l>Toy with your books: and, as the various fits</l>
@@ -2018,7 +2018,7 @@ Nor love of knowledge urge you to fatigue</l>
                   <l n="90">Chiefly where Solitude, ſad nurſe of care,</l>
                   <l>To ſickly muſing gives the penſive mind.</l>
                   <l>
-                     <pb n="73" facs="tcp:005532_0067_1019138C1279B898"/>
+                     <pb n="73" facs="unknown:005532_0067_1019138C1279B898"/>
 There madneſs enters; and the dim-ey'd Fiend,</l>
                   <l>Sour Melancholy, night and day provokes</l>
                   <l>Her own eternal wound. The ſun grows pale;</l>
@@ -2049,7 +2049,7 @@ There madneſs enters; and the dim-ey'd Fiend,</l>
                   <l>Want all their lives; and others every day</l>
                   <l>For fear of dying ſuffer worſe than death.</l>
                   <l>
-                     <pb n="74" facs="tcp:005532_0068_1019138E226CDDC0"/>
+                     <pb n="74" facs="unknown:005532_0068_1019138E226CDDC0"/>
 Ah! from your boſoms baniſh, if you can,</l>
                   <l n="120">Thoſe fatal gueſts: and firſt the Daemon Fear;</l>
                   <l>That trembles at impoſſible events,</l>
@@ -2080,7 +2080,7 @@ Ah! from your boſoms baniſh, if you can,</l>
                   <l>In vain your friends would reaſon down your pain.</l>
                   <l n="145">Oh ye whoſe ſouls relentleſs love has tam'd</l>
                   <l>
-                     <pb n="75" facs="tcp:005532_0069_101913901A8B3250"/>
+                     <pb n="75" facs="unknown:005532_0069_101913901A8B3250"/>
 To ſoft diſtreſs, or friends untimely ſlain!</l>
                   <l>Court not the luxury of tender thought:</l>
                   <l>Nor deem it impious to forget thoſe pains</l>
@@ -2111,7 +2111,7 @@ To ſoft diſtreſs, or friends untimely ſlain!</l>
                   <l>A pleaſing phrenzy buoys the lighten'd ſoul,</l>
                   <l>And ſanguine hopes diſpel your fleeting care;</l>
                   <l>
-                     <pb n="76" facs="tcp:005532_0070_101913919BBC8A48"/>
+                     <pb n="76" facs="unknown:005532_0070_101913919BBC8A48"/>
 And what was difficult, and what was dire,</l>
                   <l>Yields to your proweſs and ſuperior ſtars:</l>
                   <l n="175">The happieſt you of all that e'er were mad,</l>
@@ -2141,7 +2141,7 @@ And what was difficult, and what was dire,</l>
                   <l>It rapt, to plunge you deeper in deſpair.</l>
                   <l n="200">Perhaps you rue even that divineſt gift,</l>
                   <l>
-                     <pb n="77" facs="tcp:005532_0071_1019139359C19508"/>
+                     <pb n="77" facs="unknown:005532_0071_1019139359C19508"/>
 The gay, ſerene, good-natur'd Burgundy,</l>
                   <l>Or the freſh fragrant vintage of the Rhine:</l>
                   <l>And wiſh that heaven from mortals had withheld</l>
@@ -2173,7 +2173,7 @@ The gay, ſerene, good-natur'd Burgundy,</l>
                   <l n="225">His manly ſenſe, and energy of mind.</l>
                   <l>Virtuous and wiſe he was, but not ſevere;</l>
                   <l>
-                     <pb n="78" facs="tcp:005532_0072_101913954748DA58"/>
+                     <pb n="78" facs="unknown:005532_0072_101913954748DA58"/>
 He ſtill remember'd that he once was young;</l>
                   <l>His eaſy preſence check'd no decent joy.</l>
                   <l>Him even the diſſolute admir'd; for he</l>
@@ -2204,7 +2204,7 @@ He ſtill remember'd that he once was young;</l>
                   <l>That all was vanity, and life a dream.</l>
                   <l>Let nature reſt: be buſy for yourſelf,</l>
                   <l>
-                     <pb n="79" facs="tcp:005532_0073_1019139753CD1398"/>
+                     <pb n="79" facs="unknown:005532_0073_1019139753CD1398"/>
 And for your friend; be buſy even in vain</l>
                   <l n="255">Rather than teize her ſated appetites.</l>
                   <l>Who never faſts no banquet e'er enjoys;</l>
@@ -2235,7 +2235,7 @@ And for your friend; be buſy even in vain</l>
                   <l>Defies of Envy and all-ſapping Time.</l>
                   <l>The gawdy gloſs of Fortune only ſtrikes</l>
                   <l>
-                     <pb n="80" facs="tcp:005532_0074_10191398D7060330"/>
+                     <pb n="80" facs="unknown:005532_0074_10191398D7060330"/>
 The vulgar eye: the ſuffrage of the wiſe,</l>
                   <l n="280">The praiſe that's worth ambition, is attain'd</l>
                   <l>By Senſe alone, and dignity of mind.</l>
@@ -2269,7 +2269,7 @@ The vulgar eye: the ſuffrage of the wiſe,</l>
                   <l>And ſtrange to tell<g ref="char:punc">▪</g>) he practis'd what he preach'd.</l>
                   <l>Skill'd in the Paſſions, how to check their ſway</l>
                   <l n="305">
-                     <pb n="81" facs="tcp:005532_0075_1019139A5E758410"/>
+                     <pb n="81" facs="unknown:005532_0075_1019139A5E758410"/>
  He knew, as far as Reaſon can controul</l>
                   <l>The lawleſs Powers. But other cares are mine:</l>
                   <l>Form'd in the ſchool of Paeon, I relate</l>
@@ -2301,7 +2301,7 @@ The vulgar eye: the ſuffrage of the wiſe,</l>
                   <l>Or pains or pleaſes. But ye finer Souls,</l>
                   <l n="330">Form'd to ſoft luxury, and prompt to thrill</l>
                   <l>
-                     <pb n="82" facs="tcp:005532_0076_1019139C68271D20"/>
+                     <pb n="82" facs="unknown:005532_0076_1019139C68271D20"/>
 With all the tumults, all the joys and pains,</l>
                   <l>That beauty gives; with caution and reſerve</l>
                   <l>Indulge the ſweet deſtroyer of repoſe,</l>
@@ -2331,7 +2331,7 @@ With all the tumults, all the joys and pains,</l>
                   <l>Love always dangerous, always to be ſhunn'd.</l>
                   <l>Love well repaid, and not too weakly ſunk</l>
                   <l>
-                     <pb n="83" facs="tcp:005532_0077_1019139E6CDFD2D0"/>
+                     <pb n="83" facs="unknown:005532_0077_1019139E6CDFD2D0"/>
 In wanton and unmanly tenderneſs,</l>
                   <l n="360">Adds blooom to Health; o'er every virtue ſheds</l>
                   <l>A gay, humane, and amiable grace,</l>
@@ -2366,7 +2366,7 @@ In wanton and unmanly tenderneſs,</l>
                   <l>But when the prurient habit of delight.</l>
                   <l n="385">Or looſe imagination, ſpurs you on</l>
                   <l>
-                     <pb n="84" facs="tcp:005532_0078_101913890AF0CFD0"/>
+                     <pb n="84" facs="unknown:005532_0078_101913890AF0CFD0"/>
 To deeds above your ſtrength, impute it not</l>
                   <l>To Nature: Nature all compulſion hates.</l>
                   <l>Ah' let nor luxury nor vain renown</l>
@@ -2397,7 +2397,7 @@ To deeds above your ſtrength, impute it not</l>
                   <l>Conſumes, is with his own conſent undone:</l>
                   <l>He chuſes to be wretched, to be mad;</l>
                   <l>
-                     <pb n="85" facs="tcp:005532_0079_1019139FF038BA00"/>
+                     <pb n="85" facs="unknown:005532_0079_1019139FF038BA00"/>
 And warn'd proceeds and wilful to his fate.</l>
                   <l>But there's a Paſſion, whoſe tempeſtuous ſway</l>
                   <l n="415">Tears up each virtue planted in the breaſt,</l>
@@ -2430,7 +2430,7 @@ And warn'd proceeds and wilful to his fate.</l>
                   <l>Is health, and only fills the ſails of life.</l>
                   <l>For where the Mind a torpid winter leads,</l>
                   <l n="440">
-                     <pb n="86" facs="tcp:005532_0080_101913A1D3FDDFC8"/>
+                     <pb n="86" facs="unknown:005532_0080_101913A1D3FDDFC8"/>
 Wrapt in a body corpulent and cold,</l>
                   <l>And each clogg'd function lazily moves on;</l>
                   <l>A generous ſally ſpurns th' incumbent load,</l>
@@ -2465,7 +2465,7 @@ Wrapt in a body corpulent and cold,</l>
                   <l n="465">You reaſon well, ſee as you ought to ſee<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="87" facs="tcp:005532_0081_10191387457C6370"/>
+                     <pb n="87" facs="unknown:005532_0081_10191387457C6370"/>
 And wonder at the madneſs of mankind:</l>
                   <l>Seiz'd with the common rage, you ſoon forget</l>
                   <l>The ſpeculations of your wi<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -2502,7 +2502,7 @@ And wonder at the madneſs of mankind:</l>
                   <l>Applaud the fool that higheſt lifts his heels;</l>
                   <l>And with inſipid ſhew of rapture, die</l>
                   <l>
-                     <pb n="88" facs="tcp:005532_0082_101913A5CC1C3840"/>
+                     <pb n="88" facs="unknown:005532_0082_101913A5CC1C3840"/>
 Of ideot notes, impertinently long.</l>
                   <l>But he the Muſe's laurel juſtly ſhares,</l>
                   <l n="495">A Poet he, and touch'd with Heaven's own fire;</l>
@@ -2540,7 +2540,7 @@ Of ideot notes, impertinently long.</l>
                </lg>
             </div>
             <trailer>The END.</trailer>
-            <pb facs="tcp:005532_0083_101913A74F75A828"/>
+            <pb facs="unknown:005532_0083_101913A74F75A828"/>
          </div>
       </body>
    </text>
